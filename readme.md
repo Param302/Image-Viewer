@@ -1,7 +1,7 @@
 # Image Viewer 
 A Simple Image Viewer GUI in Python made using `tkinter` and `pillow` library.
 
-<img src="./assets/preview.jpg"  width="80%" height="500px">
+<img src="./assets/preview.jpg"  width="80%" height="550px">
 
 ## Software & libraires used:
 - Python 3.10.2
