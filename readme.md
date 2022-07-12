@@ -17,3 +17,7 @@ git clone https://github.com/Param302/Image-Viewer.git
 ```
 python -m pip install -r requirements.txt
 ```
+- Run `main.py` file
+```
+python main.py
+```
